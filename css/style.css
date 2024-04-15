@@ -53,13 +53,12 @@ main{
     margin-bottom: 12px;
 }
 .date{
-    font-weight: 600;
     margin-bottom: 12px;
 }
 .link{
     color: var(--black);
     display: block;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 800;
     margin-bottom: 12px;
 }
@@ -75,6 +74,7 @@ main{
 }
 .author{
     display: flex;
+    align-items: center;
     gap: 12px;
 }
 .author img{
